@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "aksi": "Keterangan",
+      "checkbox": false,
+      "masa_aktif": "04/09/2025(Grace Period)",
+      "nama_paket": "Telkomsel 25 Mb",
+      "nomor_m2m": "085197626012",
+      "sisa_kuota": "25 Mb",
+      "status": "Siap Pakai"
+    },
+    {
+      "aksi": "Perpanjangan Periode TopUp Kuota",
+      "checkbox": true,
+      "masa_aktif": "31/08/2025",
+      "nama_paket": "Telkomsel 25 Mb",
+      "nomor_m2m": "085197626014",
+      "sisa_kuota": "3.09 Mb",
+      "status": "Aktif"
+    },
+    {
+      "aksi": "Perpanjangan Periode TopUp Kuota",
+      "checkbox": true,
+      "masa_aktif": "31/08/2025",
+      "nama_paket": "Telkomsel 25 Mb",
+      "nomor_m2m": "085197626013",
+      "sisa_kuota": "2.32 Mb",
+      "status": "Aktif"
+    },
+    {
+      "aksi": "Perpanjangan Periode TopUp Kuota",
+      "checkbox": true,
+      "masa_aktif": "31/08/2025",
+      "nama_paket": "Telkomsel 50 Mb",
+      "nomor_m2m": "085197626011",
+      "sisa_kuota": "26.34 Mb",
+      "status": "Aktif"
+    },
+    {
+      "aksi": "Perpanjangan Periode TopUp Kuota",
+      "checkbox": true,
+      "masa_aktif": "31/08/2025",
+      "nama_paket": "Telkomsel 50 Mb",
+      "nomor_m2m": "085197626010",
+      "sisa_kuota": "19.24 Mb",
+      "status": "Aktif"
+    }
+  ]
+}
